@@ -13,3 +13,5 @@ Suggests:
     httptest2,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+URL: https://github.com/maelle/mockmock
+BugReports: https://github.com/maelle/mockmock/issues
